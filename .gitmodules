@@ -1,0 +1,3 @@
+[submodule "iterm2-website"]
+	path = iterm2-website
+	url = https://github.com/gnachman/iterm2-website.git

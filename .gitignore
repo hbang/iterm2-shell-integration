@@ -1,0 +1,5 @@
+.DS_Store
+.theos
+packages
+layout/usr/bin/*
+layout/usr/libexec/iterm2-shell-integration/*

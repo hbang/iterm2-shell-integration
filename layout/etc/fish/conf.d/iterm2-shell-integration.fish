@@ -1,0 +1,1 @@
+/usr/libexec/iterm2-shell-integration/fish

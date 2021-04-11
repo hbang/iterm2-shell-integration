@@ -1,0 +1,14 @@
+Package: iterm2-shell-integration
+Name: iTerm2 Shell Integration
+Depends: bash, coreutils, gawk
+Suggests: python3.7
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Terminal extensions supported by iTerm2 and NewTerm
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Author: HASHBANG Productions <support@hbang.ws>
+Section: Terminal Support
+Icon: https://chariz.com/cdn/icon/iterm2-shell-integration/icon@3x.png
+Depiction: https://chariz.com/get/iterm2-shell-integration
+Support: https://hashbang.productions/support/
+Tag: role::hacker, compatible_min::ios11.0
