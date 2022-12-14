@@ -8,7 +8,7 @@ Description: Terminal extensions supported by iTerm2 and NewTerm
 Maintainer: HASHBANG Productions <support@hbang.ws>
 Author: HASHBANG Productions <support@hbang.ws>
 Section: Terminal Support
-Icon: https://chariz.com/cdn/icon/iterm2-shell-integration/icon@3x.png
+Icon: https://img.chariz.cloud/icon/iterm2-shell-integration/icon@3x.png
 Depiction: https://chariz.com/get/iterm2-shell-integration
 Support: https://hashbang.productions/support/
 Tag: role::hacker, compatible_min::ios11.0
